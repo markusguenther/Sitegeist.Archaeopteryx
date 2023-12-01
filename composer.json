@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "neos/neos": "^8.3 || dev-master"
+        "neos/neos": "^8.0 || dev-master"
     },
     "require-dev": {
     },
